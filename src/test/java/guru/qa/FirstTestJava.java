@@ -8,6 +8,6 @@ public class FirstTestJava {
     @Test
     void firstTestJava() {
         int a = 8;
-        Assertions.assertTrue(a > 2);
+        Assertions.assertTrue(a > 5);
     }
 }
